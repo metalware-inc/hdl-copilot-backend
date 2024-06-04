@@ -1,1 +1,3 @@
-# hdl-copilot-backend
+# HDL Copilot
+
+VSCode plugin backed by a C++ LSP server.
