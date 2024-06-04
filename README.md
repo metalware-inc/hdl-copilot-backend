@@ -2,7 +2,7 @@
 
 VSCode plugin backed by a C++ LSP server.
 
-Front-end source code [here](https://github.com/metalware-inc/hdl-copilot-frontend/blob/main/bin/linux/unpack.sh#L7-L12).
+Front-end source code [here](https://github.com/metalware-inc/hdl-copilot-frontend/).
 
 ## Building
 
