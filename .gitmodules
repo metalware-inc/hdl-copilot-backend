@@ -1,0 +1,3 @@
+[submodule "server/tests/projects/uvm-1.2"]
+	path = server/tests/projects/uvm-1.2
+	url = https://github.com/gchinna/uvm-1.2.git
