@@ -1,0 +1,5 @@
+.DS_Store
+server/tests/venv*
+*.sw*
+.vscode
+server/.cache
